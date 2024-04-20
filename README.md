@@ -4,12 +4,12 @@
 在随机读写下，每秒可处理写请求数27.3w，每秒可处理读请求数31.5w
 
 # 项目中文件
-bin:输出的可执行文件
-build:编译目录
-store:数据落盘文件
-stressTest:压力测试源代码
-CMakeLists.txt:CMake构建文件
-SkipList.h:跳表源代码文件
+* bin:输出的可执行文件
+* build:编译目录
+* store:数据落盘文件
+* stressTest:压力测试源代码
+* CMakeLists.txt:CMake构建文件
+* SkipList.h:跳表源代码文件
 
 
 # 项目使用
