@@ -13,8 +13,9 @@ SkipList.h:跳表源代码文件
 
 
 # 项目使用
-1. 进入build文件
-2. 终端中输入 cmake..
-3. 接着输入 make
-4. 可执行文件在bin中，执行./main(./stress)
+1. 创建build目录，mkdir build , 创建文件罗落盘目录 mkdir store
+2. 进入build文件
+3. 终端中输入 cmake..
+4. 接着输入 make
+5. 可执行文件在bin中，执行./main(./stress)
 
