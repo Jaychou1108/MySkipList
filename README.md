@@ -13,7 +13,7 @@
 
 
 # 项目使用
-1. 创建build目录，mkdir build , 创建文件罗落盘目录 mkdir store
+1. 创建build目录，mkdir build , 创建文件落盘目录 mkdir store
 2. 进入build文件
 3. 终端中输入 cmake..
 4. 接着输入 make
